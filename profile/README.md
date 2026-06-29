@@ -60,7 +60,7 @@ We provide end-to-end software development and automation services for modern bu
 
 ## 🤖 AI Automation Solutions
 
-We build smart automation systems that help businesses reduce manual work and improve productivity.
+We build smart automation systems that help businesses reduce manual work, improve productivity, and scale operations faster.
 
 ### AI Solutions We Build
 
@@ -68,12 +68,13 @@ We build smart automation systems that help businesses reduce manual work and im
 * AI Customer Support Chatbots
 * AI Lead Qualification Systems
 * AI Appointment Booking Assistants
-* AI Email & Workflow Automation
+* AI Email Automation
 * AI Document Processing
 * AI Business Process Automation
 * n8n Automation Workflows
 * OpenAI API Integrations
 * CRM & Sales Automation
+* Internal Workflow Automation
 
 Our goal is to help businesses automate repetitive tasks and focus more on growth.
 
@@ -100,7 +101,7 @@ We help founders and businesses build scalable SaaS platforms from scratch.
 * Responsive UI
 * Production Deployment
 
-From MVP to full-scale product, we can help build, launch, and improve SaaS platforms.
+From MVP to full-scale product, we help build, launch, and improve SaaS platforms.
 
 ---
 
@@ -259,34 +260,59 @@ We provide ongoing updates, improvements, bug fixes, and technical support.
 
 ## 📌 Featured Focus Areas
 
-### AI Automation
+<div align="center">
 
-Helping businesses automate customer support, lead generation, appointment booking, email workflows, and internal processes.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤖 AI Automation</h3>
+      <p>We help businesses automate customer support, lead generation, appointment booking, email workflows, and internal operations.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 SaaS Development</h3>
+      <p>We build scalable SaaS products with authentication, subscriptions, admin dashboards, analytics, and cloud deployment.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Web & Mobile Apps</h3>
+      <p>We develop modern, responsive, and user-friendly applications for startups, businesses, and agencies.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 Business Dashboards</h3>
+      <p>We create powerful dashboards to manage users, data, reports, workflows, and business operations.</p>
+    </td>
+  </tr>
+</table>
 
-### SaaS Development
-
-Building scalable SaaS products with authentication, subscriptions, admin dashboards, analytics, and cloud deployment.
-
-### Web & Mobile Apps
-
-Developing modern, responsive, and user-friendly applications for businesses and startups.
-
-### Business Dashboards
-
-Creating powerful dashboards to manage users, data, reports, workflows, and business operations.
+</div>
 
 ---
 
-## 📊 Organization Stats
+## 📌 Company Highlights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Neptunes-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="Neptunes Tech GitHub Stats" />
-
-<br />
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neptunes-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Neptunes Tech Top Languages" />
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>7+</h3>
+      <p>Years of Development Experience</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Full Stack</h3>
+      <p>Frontend, Backend, Database & Cloud</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>AI First</h3>
+      <p>Automation, Chatbots & AI Workflows</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Global</h3>
+      <p>Working With International Clients</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
